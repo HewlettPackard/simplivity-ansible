@@ -1,0 +1,9 @@
+inventory
+**/*.retry
+*.pyc
+simplivity_config.json
+.idea
+.idea/
+*~
+**/.coverage
+htmlcov
