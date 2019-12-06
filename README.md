@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/sijeesh/simplivity-ansible.svg?token=DdM796ojSadukrppSqyj&branch=master)](https://travis-ci.com/sijeesh/simplivity-ansible)
+[![Coverage Status](https://coveralls.io/repos/github/HewlettPackard/simplivity-ansible/badge.svg?branch=master)](https://coveralls.io/github/HewlettPackard/simplivity-ansible?branch=master)
+
 # Ansible Modules for HPE SimpliVity
 
 Modules to manage HPE SimpliVity using Ansible playbooks.
