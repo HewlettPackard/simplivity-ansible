@@ -1,6 +1,6 @@
 # Examples
 
-This directory contains everything you need to start provisioning with SimpliVIty and Ansible.
+This directory contains everything you need to start with SimpliVIty and Ansible.
 
 ## Running the sample playbooks
 
