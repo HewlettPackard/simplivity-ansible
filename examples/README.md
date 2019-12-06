@@ -4,7 +4,7 @@ This directory contains everything you need to start provisioning with SimpliVIt
 
 ## Running the sample playbooks
 
-**Requirements:** To run these examples you need to execute the [Ansible SimpliVity Setup.](https://github.com/HewlettPackard/simplivity-ansible/#ansible-simplivity-setup)
+**Requirements:** To run these examples you need to execute the [Ansible SimpliVity Setup.](https://github.com/HewlettPackard/simplivity-ansible#setup)
 
 **NOTE:** A sample configuration file is provided within the examples directory. To use it, execute the following steps:
 
