@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/sijeesh/simplivity-ansible.svg?token=DdM796ojSadukrppSqyj&branch=master)](https://travis-ci.com/sijeesh/simplivity-ansible)
+[![Build Status](https://travis-ci.com/HewlettPackard/simplivity-ansible.svg?branch=master)](https://travis-ci.com/HewlettPackard/simplivity-ansible)
 [![Coverage Status](https://coveralls.io/repos/github/HewlettPackard/simplivity-ansible/badge.svg?branch=master)](https://coveralls.io/github/HewlettPackard/simplivity-ansible?branch=master)
 
 # Ansible Modules for HPE SimpliVity
