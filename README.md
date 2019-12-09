@@ -136,6 +136,10 @@ If you prefer, the configuration can also be stored in environment variables.
 export SIMPLIVITYSDK_OVC_IP='10.30.4.56'
 export SIMPLIVITYSDK_USERNAME='username'
 export SIMPLIVITYSDK_PASSWORD='password'
+
+# Optional
+export SIMPLIVITYSDK_SSL_CERTIFICATE='<path_to_cert.crt_file>'
+export SIMPLIVITYSDK_CONNECTION_TIMEOUT='<connection time-out in seconds>'
 ```
 
 :lock: Tip: Make sure no unauthorised person has access to the environment variables, since the password is stored in clear-text.
