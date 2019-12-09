@@ -110,7 +110,7 @@ To use the Ansible SimpliVity modules, you can store the configuration on a JSON
 {
   "ip": "10.30.4.56",
   "credentials": {
-    "userName": "username",
+    "username": "username",
     "password": "password"
   }
 }
