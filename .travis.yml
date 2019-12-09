@@ -36,5 +36,4 @@ before_script:
 script:
   - export ANSIBLE_LIBRARY=$PWD/library
   - export PYTHONPATH=$ANSIBLE_LIBRARY:$PYTHONPATH
-  - touch examples/vars/config.yml
   - ./build.sh
