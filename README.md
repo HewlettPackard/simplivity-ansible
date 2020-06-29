@@ -17,7 +17,7 @@ Each SimpliVity resource operation is exposed through an Ansible module. We also
 
 The detailed documentation for each module is available at: [HPE SimpliVity Ansible Modules Documentation](simplivity-ansible.md)
 
-### Example of a playbook using Ansible SimpliVity modules
+### Example playbook
 
 ```yml
 - hosts: all
